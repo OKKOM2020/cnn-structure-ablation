@@ -32,7 +32,7 @@
 | cifar10.npz | 27d3cc7c2c65fe18d7d11df0f96e5914faa5294ad5cda9c3fd882d6c03e4f3da | 放到 data/cifar-10/cifar10.npz |
 | checkpoints.zip | 7c31f9117985b21afe6a4711a6ccb7e5deb00ab487c2c919f8946a7b3072b369 | 解压到 results/（得到 results/checkpoints/） |
 
-下载地址（GitHub Releases，发布后自动生效）：
+下载地址：
 
 - https://github.com/OKKOM2020/cnn-structure-ablation/releases/latest/download/GTSRB.tar.gz
 - https://github.com/OKKOM2020/cnn-structure-ablation/releases/latest/download/cifar10.npz
